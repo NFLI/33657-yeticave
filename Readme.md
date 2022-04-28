@@ -1,6 +1,6 @@
 # Личный проект «YetiCave»
 
-* Студент: [Илья Андрущенко](https://up.htmlacademy.ru/php/4/user/595817).
+* Студент: [Илья](https://up.htmlacademy.ru/php/4/user/).
 * Наставник: `Неизвестно`.
 
 ---
